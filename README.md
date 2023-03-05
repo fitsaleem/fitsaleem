@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsaleem&label=Profile%20views&color=0e75b6&style=flat" alt="fitsaleem" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fitsaleem" target="blank"><img src="https://linkedin.com/in/saleem-raza ?logo=linkedin&style=for-the-badge" alt="fitsaleem" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fitsaleem" target="blank"><img src="https://linkedin.com/in/saleem-raza?logo=twitter&style=for-the-badge" alt="fitsaleem" /></a> </p>
 
 - 🌱 I’m currently learning **react js & DevOps tools**
 
