@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Full Stack developer & DevOps engineer.</h3>
 <image align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47fiqk4l7ef6h9roauswcp44php1fc328mi4esaemm&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://linkedin.com/in/saleem-raza/" target="blank"><img src="https://img.shields.io/twitter/follow/fitsaleem?logo=twitter&style=for-the-badge" alt="fitsaleem" /></a> follow me..</p>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/saleem-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saleem-raza" height="30" width="40" /></a>
 
 
