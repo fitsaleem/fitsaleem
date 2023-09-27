@@ -1,16 +1,16 @@
 <!-- [![MasterHead](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Saleem Raza</h1>
-<h3 align="center">A passionate Full Stack developer & DevOps engineer.</h3>
+<h3 align="center">A passionate Full Stack developer.</h3>
 <!-- <image align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47fiqk4l7ef6h9roauswcp44php1fc328mi4esaemm&rid=giphy.gif&ct=g">
  -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsaleem&label=Profile%20views&color=0e75b6&style=flat" alt="fitsaleem" /> </p>
 
 
-- 🌱 I’m currently learning **react js & DevOps tools**
+- 🌱 I’m currently Exploring **web3 || Blockchain Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fitsaleem](https://github.com/fitsaleem)
 
-- 💬 Ask me about **CI/CD MEARN & DevOps**
+- 💬 Ask me about **Web3 Next.js & SDLC**
 
 - 📫 How to reach me **sr.saleem774@gmail.com**
 
