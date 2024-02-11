@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saleem Raza</h1>
 <!-- <h3 align="center">A passionate Full Stack developer.</h3>
 <!-- <image align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47fiqk4l7ef6h9roauswcp44php1fc328mi4esaemm&rid=giphy.gif&ct=g"> -->
- -->
+ 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsaleem&label=Profile%20views&color=0e75b6&style=flat" alt="fitsaleem" /> </p>
  -->
 
