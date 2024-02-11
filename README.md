@@ -1,9 +1,9 @@
 <!-- [![MasterHead](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Saleem Raza</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
-<!-- <image align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47fiqk4l7ef6h9roauswcp44php1fc328mi4esaemm&rid=giphy.gif&ct=g">
+<!-- <h3 align="center">A passionate Full Stack developer.</h3>
+<!-- <image align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47fiqk4l7ef6h9roauswcp44php1fc328mi4esaemm&rid=giphy.gif&ct=g"> -->
  -->
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsaleem&label=Profile%20views&color=0e75b6&style=flat" alt="fitsaleem" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsaleem&label=Profile%20views&color=0e75b6&style=flat" alt="fitsaleem" /> </p>
 
 
 - 🌱 I’m currently Exploring **web3 || Blockchain Technologies**
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sr.saleem774@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/fitsaleem](https://github.com/fitsaleem)
+- 📄 Know about my experiences [https://github.com/fitsaleem](https://github.com/fitsaleem) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
