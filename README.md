@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsaleem&label=Profile%20views&color=0e75b6&style=flat" alt="fitsaleem" /> </p>
  -->
 
-- 🌱 I’m currently Exploring **web3 || Blockchain Technologies**
+- 🌱 I’m currently Exploring **web3 || MERN Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fitsaleem](https://github.com/fitsaleem)
 
